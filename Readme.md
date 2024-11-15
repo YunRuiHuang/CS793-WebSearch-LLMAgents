@@ -21,6 +21,10 @@ Note: All the models need to be `modelname-instruct `, which include a chat_temp
 * Gemma 2 2B
   * https://huggingface.co/google/gemma-2-2b-it
 
+Download model should be save in the same folder with python file:
+
+![](3.png)
+
 ### lib
 
 ` torch`
